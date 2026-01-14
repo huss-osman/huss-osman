@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Osman 👋
 
-<!--
-**huss-osman/huss-osman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring DevOps Engineer focused on building strong foundations through continuous learning and hands-on practice.
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Linux & Bash
+- Git & GitHub
+- Docker
+- AWS
+- Terraform
+- CI/CD pipelines
+- Kubernetes 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I Learn
+- Hands-on labs and real environments
+- Documenting concepts and lessons learned
+- Building projects incrementally
+- Community-based learning through GitHub, LinkedIn, and structured DevOps training with CoderCo
+
+## Current Focus
+Building a strong understanding of Linux fundamentals and command-line proficiency as a foundation for DevOps and cloud technologies.
+
+## Currently Working On
+Strengthening Linux fundamentals and building a solid foundation for DevOps and cloud technologies.
