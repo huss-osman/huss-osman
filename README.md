@@ -1,158 +1,202 @@
-## Hi 👋 I’m Osman
+# 👋 Hi, I’m Osman Hussein
 
-Aspiring DevOps Engineer focused on building strong foundations in **Linux** and **Bash** through hands-on practice, troubleshooting, and clear documentation.
+**Aspiring DevOps Engineer** focused on building strong foundations in **Linux, Bash, and system-level understanding** through hands-on practice and documentation.
 
-I’m intentionally learning DevOps from the ground up — prioritising **system behaviour, predictability, and automation fundamentals** over rushing into tools.
-
-This repository serves as a living record of what I’ve learned, how I learned it, and why it works.
+This repository documents **how I learn**, not just what I learn — with an emphasis on *why systems behave the way they do*, not memorising commands.
 
 ---
 
-## 🔬 Featured Project: DevOps Learning
+## 🎯 Repository Purpose
 
-🔗 https://github.com/huss-osman/devops-learning
+This repository exists to build and demonstrate **core DevOps foundations** before moving into higher-level tooling like Docker, Kubernetes, and cloud platforms.
 
-A hands-on learning repository focused on **Linux and Bash fundamentals**, reinforced through structured challenges and real-world troubleshooting scenarios.
-
-The aim of this project is to:
-- Understand how Linux systems behave internally
-- Build strong command-line and scripting fundamentals
-- Develop practical troubleshooting skills
-- Document learning clearly for long-term reference
-
-Rather than memorising commands, the emphasis is on **reasoning about system behaviour** and understanding cause-and-effect.
+The focus is on:
+- Understanding Linux internals and behaviour
+- Writing predictable, safe Bash scripts
+- Developing troubleshooting and operational thinking
+- Reinforcing learning through real-world challenges
 
 ---
 
-## 🐧 Linux Fundamentals (Completed)
+##🐧 Linux Fundamentals (Completed)
 
-A deep dive into how Linux works at the command line, focusing on concepts that underpin real production systems.
+The Linux section focuses on command-line mastery and system understanding, rather than surface-level command usage.
 
-### What I Learned
+# Topics Covered
 
-**Filesystem & Navigation**
-- Linux filesystem hierarchy (`/`, `/etc`, `/var`, `/home`, etc.)
-- Absolute vs relative paths
-- How tools interact with files and directories
+- Terminal Basics
+Navigating the filesystem, command structure, and efficient terminal usage.
 
-**Permissions & Ownership**
-- Read, write, and execute permissions
-- User vs group vs other
-- How `chmod`, `chown`, and `umask` affect system security
-- Why permission issues are a common source of failures
+- Shell Basics
+Aliases, environment setup, and command execution flow.
 
-**Users & Groups**
-- User and group management
-- Privilege escalation with `sudo`
-- How Linux enforces access control
+- File System
+Linux directory structure, files vs directories, and filesystem hierarchy.
 
-**Processes & System Behaviour**
-- Inspecting running processes
-- Foreground vs background jobs
-- Signals and safe process termination
-- Understanding system load and resource usage
+- Permissions
+Read, write, execute permissions, ownership, `chmod`, `chown`, and security concepts.
 
-**Text Processing & Data Flow**
-- Using `grep`, `awk`, and `sed` to inspect and transform data
-- Pipes and redirection (`stdin`, `stdout`, `stderr`)
-- Building small, composable command-line workflows
+- Users and Groups
+User management, groups, `sudo`, and access control.
 
-**Shell & Environment**
-- Environment variables and shell expansion
-- How commands are resolved via `PATH`
-- Differences between shells at a high level
+- Environment Variables
+`PATH`, exporting variables, and shell environment behaviour.
 
-### Practical Reinforcement
+- Text Processing
+Searching, filtering, and transforming text using `grep`, `awk`, `sed`, and pipelines.
 
-Linux fundamentals were reinforced through:
+- Redirection and Pipes
+`stdin`, `stdout`, `stderr`, pipes, and chaining commands.
 
-**Bandit (OverTheWire)**  
-Used to strengthen command-line fundamentals and problem-solving skills.  
-Each level is documented with:
-- The challenge goal  
-- Commands used  
-- Why the solution works  
-- Key learning takeaways  
+- Process Management
+Inspecting running processes, background jobs, system monitoring, and safely stopping processes.
 
-**SadServers**  
-Used to simulate real-world Linux issues commonly encountered in production environments, focusing on:
-- Observing symptoms rather than guessing
+- Bash vs Zsh
+Shell differences, configuration files, and usability comparisons.
+
+- Vim Basics
+Editing files efficiently using Vim.
+
+## 📂 Linux folder:
+
+👉 linux/
+
+---
+
+## 🧪 Linux Reinforcement
+
+### Bandit (Levels 1–12)
+
+The OverTheWire Bandit wargame is used to reinforce Linux fundamentals through progressively harder challenges.
+
+Each level documents:
+
+- The challenge goal
+
+- Commands used
+
+- Why the solution works
+
+- A key learning takeaway
+
+Bandit is treated as a **learning exercise**, not a puzzle to brute-force.
+
+## 📂 Linux folder:
+
+📂 linux/bandit/
+
+---
+
+## SadServers (Easy → Hard)
+
+SadServers scenarios simulate real-world Linux issues commonly encountered in production environments.
+
+Notes focus on:
+
+- Observing system behaviour
+
 - Forming and testing hypotheses
-- Applying fixes deliberately
-- Understanding root causes instead of surface-level errors
+
+- Applying deliberate fixes
+
+- Understanding root causes
+
+## 📂 Linux folder:
+
+📂 linux/sadservers/
 
 ---
 
 ## 🐚 Bash Scripting Fundamentals (In Progress)
 
-Focused on understanding **how Bash executes scripts**, how data flows through them, and how to write scripts that behave predictably.
+The Bash section focuses on how Bash executes, not just syntax.
 
-### What I’m Learning
+Rather than jumping straight into automation, the emphasis is on:
 
-**Script Execution**
-- How the shebang works
-- Execution permissions and script invocation
-- Differences between interactive shells and scripts
+- Execution order
 
-**Variables & Expansion**
-- Variable assignment and scope
-- Quoting rules and why they matter
-- Parameter expansion and common pitfalls
+- Expansion and quoting
 
-**Control Flow**
-- Conditional logic (`if`, `case`)
-- Looping constructs (`for`, `while`)
-- Using loops to automate repetitive tasks safely
+- Error handling and predictability
 
-**Exit Codes & Error Handling**
-- How commands signal success or failure
-- Using exit codes correctly
-- Writing scripts that fail loudly and predictably
+# Topics Covered So Far
 
-**Functions & Structure**
-- Writing reusable functions
-- Passing arguments explicitly
-- Avoiding hidden state and side effects
+- Writing and running Bash scripts
 
-### Hands-On Practice
-- Small automation scripts
-- Interactive challenges (e.g. BashBattle-style exercises)
-- Breaking scripts intentionally to understand behaviour
-- Documenting examples and lessons learned
+- Shebangs and execution permissions
+
+- Comments and script structure
+
+- Variables and parameters
+
+- Arithmetic expansion
+
+- Conditionals (if, case)
+
+- Loops (for, while)
+
+- Functions
+
+- User input
+
+- Pipes and redirection
+
+- Exit codes
+
+- Shell options (set)
+
+- Environment variables and PATH
+
+- Working with files
+
+Each topic is documented as a standalone Markdown file with:
+
+- Explanation
+
+- Examples
+
+- Key takeaways
+
+# 📂 Bash scripting folder:
+
+👉 bash-scripting/
 
 ---
 
-## 🧠 Learning Philosophy
+# 🧠 Learning Approach
 
-- Learn by doing, breaking, and fixing
-- Prefer understanding over memorisation
-- Read `man` pages and experiment
-- Treat mistakes as learning opportunities
-- Build strong foundations before scaling into cloud, containers, and CI/CD
+- Hands-on practice in real Linux environments (WSL, VMs)
+
+- Solving problems before looking up solutions
+
+- Documenting why commands work, not just what they do
+
+- Revisiting concepts through Bandit and SadServers
+
+- Treating confusion and mistakes as part of the learning process
+
+- The goal is long-term understanding that transfers to production systems.
 
 ---
 
-## 🗺️ Learning Roadmap
+# 🚀 What’s Next
 
-**Completed**
-- Linux fundamentals
+Planned future topics (added only when started):
 
-**In Progress**
-- Bash scripting and automation
+- Git & version control workflows
 
-**Up Next**
-- Git and version control
 - Networking fundamentals
-- Containers and Docker
-- Cloud and CI/CD (later stages)
 
----
+- Containers & Docker
 
-## 📌 Status
+- Cloud fundamentals (AWS)
 
-🚧 This repository is actively maintained and updated as I progress.  
-Content reflects my **current level of understanding** and evolves as experience deepens.
+These will be added incrementally and intentionally, not rushed.
 
----
+--- 
 
-📫 Feel free to explore the notes and examples — and check back as the project grows.
+# 🔗 Links
+
+GitHub profile: https://github.com/huss-osman
+
+This repository: https://github.com/huss-osman/devops-learning
