@@ -18,7 +18,7 @@ The focus is on:
 
 ---
 
-##🐧 Linux Fundamentals (Completed)
+## 🐧 Linux Fundamentals (Completed)
 
 The Linux section focuses on command-line mastery and system understanding, rather than surface-level command usage.
 
@@ -59,7 +59,7 @@ Editing files efficiently using Vim.
 
 ## 📂 Linux folder:
 
-👉 linux/
+👉 devops-learning/linux/
 
 ---
 
@@ -83,7 +83,7 @@ Bandit is treated as a **learning exercise**, not a puzzle to brute-force.
 
 ## 📂 Linux folder:
 
-📂 linux/bandit/
+📂 devops-learning/linux/bandit/
 
 ---
 
@@ -103,7 +103,7 @@ Notes focus on:
 
 ## 📂 Linux folder:
 
-📂 linux/sadservers/
+📂 devops-learning/linux/sadservers/
 
 ---
 
@@ -159,7 +159,7 @@ Each topic is documented as a standalone Markdown file with:
 
 # 📂 Bash scripting folder:
 
-👉 bash-scripting/
+👉 devops-learning/bash-scripting/
 
 ---
 
