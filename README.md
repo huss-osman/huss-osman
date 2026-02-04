@@ -57,10 +57,6 @@ Shell differences, configuration files, and usability comparisons.
 - Vim Basics
 Editing files efficiently using Vim.
 
-## 📂 Linux folder:
-
-👉 devops-learning/linux/
-
 ---
 
 ## 🧪 Linux Reinforcement
@@ -81,10 +77,6 @@ Each level documents:
 
 Bandit is treated as a **learning exercise**, not a puzzle to brute-force.
 
-## 📂 Linux folder:
-
-📂 devops-learning/linux/bandit/
-
 ---
 
 ## SadServers (Easy → Hard)
@@ -100,10 +92,6 @@ Notes focus on:
 - Applying deliberate fixes
 
 - Understanding root causes
-
-## 📂 Linux folder:
-
-📂 devops-learning/linux/sadservers/
 
 ---
 
@@ -156,10 +144,6 @@ Each topic is documented as a standalone Markdown file with:
 - Examples
 
 - Key takeaways
-
-# 📂 Bash scripting folder:
-
-👉 devops-learning/bash-scripting/
 
 ---
 
