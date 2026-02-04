@@ -107,7 +107,7 @@ Rather than jumping straight into automation, the emphasis is on:
 
 - Error handling and predictability
 
-# Topics Covered So Far
+# Topics Covered
 
 - Writing and running Bash scripts
 
@@ -136,8 +136,10 @@ Rather than jumping straight into automation, the emphasis is on:
 - Environment variables and PATH
 
 - Working with files
+  
+---
 
-Each topic is documented as a standalone Markdown file with:
+# Each topic is documented as a standalone Markdown file with:
 
 - Explanation
 
