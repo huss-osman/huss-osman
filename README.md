@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" style="filter: invert(1);" />
+    <img src="file:///C:/Users/Osman/Downloads/in_linked_linkedin_media_social_icon_124259.svg" width="28" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://profile.indeed.com/YOUR-INDEED" target="_blank">
@@ -50,7 +50,7 @@ I prioritise **Linux mastery, Bash scripting, and troubleshooting skills**, know
 
 ---
 
-## 🧰 Tech Stack (Current)
+## 🧰 Tech Stack 
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
