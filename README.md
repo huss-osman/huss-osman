@@ -1,10 +1,12 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Osman</h1>
 
-# 👋 Hi, I'm Osman
+<h3 align="center">
+Aspiring DevOps Engineer | Linux • Bash • Git • Docker • AWS • CI/CD
+</h3>
 
-## **Aspiring DevOps Engineer | Linux • Bash • Git • Docker • AWS • CI/CD**
-
-*Focused on building strong fundamentals before scaling into cloud and automation.*
+<p align="center">
+<i>Focused on building strong fundamentals before scaling into cloud and automation.</i>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ohussein/" target="_blank">
