@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm Osman
+# 👋 Hi, I'm Osman
 
 **Aspiring DevOps Engineer | Linux • Bash • Git • Docker • AWS • CI/CD**
 
