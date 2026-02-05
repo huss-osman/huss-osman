@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Osman
 
-# **Aspiring DevOps Engineer | Linux • Bash • Git • Docker • AWS • CI/CD**
+**Aspiring DevOps Engineer | Linux • Bash • Git • Docker • AWS • CI/CD**
 
 *Focused on building strong fundamentals before scaling into cloud and automation.*
 
