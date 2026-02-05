@@ -1,8 +1,12 @@
-<h1 align="center">👋 Hi, I'm Osman</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Aspiring DevOps Engineer | Linux • Bash • Git • Docker • AWS • CI/CD</strong><br/>
-</p>
+## 👋 Hi, I'm Osman
+
+**Aspiring DevOps Engineer | Linux • Bash • Git • Docker • AWS • CI/CD**
+
+*Focused on building strong fundamentals before scaling into cloud and automation.*
+
+<br/>
 
 <p align="center">
   *Focused on building strong fundamentals before scaling into cloud and automation*
