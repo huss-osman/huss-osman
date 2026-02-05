@@ -59,7 +59,7 @@ I prioritise **Linux mastery, Bash scripting, and troubleshooting skills**, know
 
 <p align="left">
   <a href="https://github.com/huss-osman/devops-learning" target="_blank">
-    <img src="https://img.shields.io/badge/Most%20Recent%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Most%20Recent%20Project-2F3136?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/huss-osman/devops-learning" target="_blank">
     <img src="https://img.shields.io/badge/Click%20Here-6F42C1?style=for-the-badge&logo=arrow-right&logoColor=white" />
