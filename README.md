@@ -18,6 +18,8 @@
 </a>
 </p>
 
+</div>
+
 ## 💡 About Me
 
 I’m an aspiring DevOps engineer focused on **building strong fundamentals before scaling into cloud and automation**.
