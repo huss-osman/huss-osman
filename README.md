@@ -57,14 +57,10 @@ I prioritise **Linux mastery, Bash scripting, and troubleshooting skills**, know
 
 ## ⚡ Newest Project
 
-<p align="left">
-  <a href="https://github.com/huss-osman/devops-learning" target="_blank">
-    <img src="https://img.shields.io/badge/Most%20Recent%20Project-2F3136?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/huss-osman/devops-learning" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20Here-6F42C1?style=for-the-badge&logo=arrow-right&logoColor=white" />
-  </a>
-</p>
+## ⚡ Newest Project
+
+[![Most Recent Project](https://img.shields.io/badge/Most%20Recent%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huss-osman/devops-learning)
+[![Click Here](https://img.shields.io/badge/CLICK%20HERE-6F42C1?style=for-the-badge&logo=arrow-right&logoColor=white)](https://github.com/huss-osman/devops-learning)
 
 ---
 
