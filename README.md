@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Osman</h1>
 
 <p align="center">
-  <strong>Aspiring DevOps Engineer</strong><br/>
-  Linux • Bash • Git • Docker • AWS • CI/CD
+  <strong>Aspiring DevOps Engineer | Linux • Bash • Git • Docker • AWS • CI/CD</strong><br/>
 </p>
 
 <p align="center">
