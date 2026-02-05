@@ -55,23 +55,26 @@ I prioritise **Linux mastery, Bash scripting, and troubleshooting skills**, know
 
 ---
 
-## 🚀 Featured Project
+## ⚡ Newest Project
 
-### 🔹 DevOps Learning (Linux & Bash Foundations)
-
-📘 **Hands-on DevOps learning repository focused on Linux and Bash**
-
-🔗 **Repo:** https://github.com/huss-osman/devops-learning
-
-This repository documents my structured learning journey, including:
-
-- Linux fundamentals with real command-line usage
-- Bash scripting fundamentals and automation basics
-- Reinforcement through **Bandit** and **SadServers**
-- Clear explanations focused on system behaviour, not memorisation
+<a href="https://github.com/huss-osman/devops-learning" target="_blank">
+  <img src="https://img.shields.io/badge/MOST_RECENT_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/huss-osman/devops-learning" target="_blank">
+  <img src="https://img.shields.io/badge/CLICK_HERE-6f42c1?style=for-the-badge" />
+</a>
 
 ---
 
+## 🚀 Featured Projects
+
+### 📚 **[DevOps Learning (Linux & Bash Foundations)](https://github.com/huss-osman/devops-learning)**
+
+Hands-on learning repo focused on **Linux fundamentals**, **Bash scripting**, and **troubleshooting** — reinforced through Bandit + SadServers, with structured notes and examples.
+
+**Tech:** Linux • Bash • Git • SSH
+
+---
 
 ## 📊 GitHub Stats
 
