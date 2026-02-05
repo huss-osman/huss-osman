@@ -1,19 +1,23 @@
-<h1 align="center">👋 Hi, I'm Osman</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Aspiring DevOps Engineer</strong><br/>
-  Linux • Bash • Git • Docker • AWS • CI/CD
-</p>
+👋 Hi, I'm **Osman**
 
-<br/>
+### Aspiring DevOps Engineer  
+**Linux • Bash • Git • Docker • AWS • CI/CD**
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+Building strong foundations in Linux systems and Bash scripting before scaling into cloud and automation.
+
+---
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+<a href="mailto:YOUR_EMAIL@outlook.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" />
 </a>
+
+---
 
 </div>
 
