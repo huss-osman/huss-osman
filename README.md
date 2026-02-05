@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Osman Hussein
 
-**Aspiring DevOps Engineer** focused on building strong foundations in **Linux, Bash, and system-level understanding** through hands-on practice and documentation.
+Aspring DevOps Engineer | AWS • Linux • Bash • Docker • Terraform • CI/CD
 
 This repository documents **how I learn**, not just what I learn — with an emphasis on *why systems behave the way they do*, not memorising commands.
 
