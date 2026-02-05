@@ -9,14 +9,13 @@
   *Focused on building strong fundamentals before scaling into cloud and automation*
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@outlook.com">
-    <img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@outlook.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" />
+</a>
 
 ## 💡 About Me
 
