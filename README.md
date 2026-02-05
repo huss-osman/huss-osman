@@ -1,21 +1,29 @@
-# 👋 Hi, I’m Osman
-
-**Aspiring DevOps Engineer | Linux • Bash • Git • Cloud Fundamentals**
-
-Building strong DevOps foundations through hands-on Linux, Bash scripting, and real-world troubleshooting.
-
----
-
-## 🔗 Connect with Me
+<h1 align="center">👋 Hi, I'm Osman</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ohussein/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <strong>Aspiring DevOps Engineer</strong><br/>
+  Linux • Bash • Git • Docker • AWS • CI/CD
+</p>
+
+<p align="center">
+  Building strong foundations in Linux and Bash for modern DevOps and cloud infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" style="filter: invert(1);" />
   </a>
-  <a href="osmanhusseinl@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://profile.indeed.com/YOUR-INDEED" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/indeed.svg" width="28" style="filter: invert(1);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:yourname@outlook.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoutlook.svg" width="28" style="filter: invert(1);" />
   </a>
 </p>
+
+<hr/>
 
 ---
 
