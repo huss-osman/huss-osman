@@ -5,25 +5,17 @@
   Linux • Bash • Git • Docker • AWS • CI/CD
 </p>
 
-<p align="center">
-  Building strong foundations in Linux and Bash for modern DevOps and cloud infrastructure.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="file:///C:/Users/Osman/Downloads/in_linked_linkedin_media_social_icon_124259.svg" width="28" style="filter: invert(1);" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://profile.indeed.com/YOUR-INDEED" target="_blank">
-    <img src="file:///C:/Users/Osman/Downloads/in_linked_linkedin_media_social_icon_124259.svg" width="28" style="filter: invert(1);" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yourname@outlook.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoutlook.svg" width="28" style="filter: invert(1);" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+</a>
 
-<hr/>
+</div>
 
 ---
 
