@@ -45,13 +45,13 @@ I prioritise **Linux mastery, Bash scripting, and troubleshooting skills**, know
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## ⚡ Newest Project
+<h2>⚡ Newest Project</h2>
 
-<p align="left">
+<p>
   <a href="https://github.com/huss-osman/devops-learning">
-    <img src="https://img.shields.io/badge/MOST_RECENT_PROJECT-2f2f2f?style=for-the-badge&logo=github&logoColor=white&labelColor=2f2f2f" />
+    <img src="https://img.shields.io/badge/MOST_RECENT_PROJECT-2f2f2f?style=for-the-badge&logo=github&logoColor=white"/>
   </a><a href="https://github.com/huss-osman/devops-learning">
-    <img src="https://img.shields.io/badge/CLICK_HERE-6f42c1?style=for-the-badge&logoColor=white&labelColor=6f42c1" />
+    <img src="https://img.shields.io/badge/CLICK_HERE-6f42c1?style=for-the-badge"/>
   </a>
 </p>
 
