@@ -82,4 +82,4 @@ This repository documents my structured learning journey, including:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huss-osman&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huss-osman&theme=tokyo-night)
