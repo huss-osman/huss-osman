@@ -1,23 +1,20 @@
 <div align="center">
 
-👋 Hi, I'm **Osman**
+## 👋 Hi, I'm Osman
 
-### Aspiring DevOps Engineer  
-**Linux • Bash • Git • Docker • AWS • CI/CD**
+**Aspiring DevOps Engineer**  
+Linux • Bash • Git • Docker • AWS • CI/CD
 
-Building strong foundations in Linux systems and Bash scripting before scaling into cloud and automation.
+Focused on building strong fundamentals before scaling into cloud and automation.
 
 ---
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="mailto:YOUR_EMAIL@outlook.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
-
----
 
 </div>
 
