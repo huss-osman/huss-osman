@@ -5,9 +5,7 @@
 **Aspiring DevOps Engineer**  
 Linux • Bash • Git • Docker • AWS • CI/CD
 
-Focused on building strong fundamentals before scaling into cloud and automation.
-
----
+*Focused on building strong fundamentals before scaling into cloud and automation.*
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,8 +15,6 @@ Focused on building strong fundamentals before scaling into cloud and automation
 </a>
 
 </div>
-
----
 
 ## 💡 About Me
 
@@ -32,16 +28,12 @@ My approach is simple:
 
 I prioritise **Linux mastery, Bash scripting, and troubleshooting skills**, knowing these form the backbone of DevOps, cloud platforms, CI/CD, and containers.
 
----
-
 ## 🛠️ Current Focus
 
 - Linux fundamentals (filesystem, permissions, processes, text processing)
 - Bash scripting fundamentals and safe scripting practices
 - Command-line problem solving and troubleshooting
 - Learning in public through structured documentation
-
----
 
 ## 🔧 Tech Stack 
 
@@ -51,11 +43,7 @@ I prioritise **Linux mastery, Bash scripting, and troubleshooting skills**, know
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-> 🔜 Expanding into: Networking, Docker, AWS, CI/CD
-
----
-
-### ⚡ Newest Project
+## ⚡ Newest Project
 
 <p align="left">
   <a href="https://github.com/huss-osman/devops-learning">
@@ -64,8 +52,6 @@ I prioritise **Linux mastery, Bash scripting, and troubleshooting skills**, know
     <img src="https://img.shields.io/badge/CLICK_HERE-6f42c1?style=for-the-badge&logoColor=white&labelColor=6f42c1" />
   </a>
 </p>
-
----
 
 ## 🚀 Featured Projects
 
