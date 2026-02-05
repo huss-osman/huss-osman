@@ -15,7 +15,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://profile.indeed.com/YOUR-INDEED" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/indeed.svg" width="28" style="filter: invert(1);" />
+    <img src="file:///C:/Users/Osman/Downloads/in_linked_linkedin_media_social_icon_124259.svg" width="28" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:yourname@outlook.com">
