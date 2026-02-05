@@ -78,3 +78,14 @@ This repository documents my structured learning journey, including:
 - Clear explanations focused on system behaviour, not memorisation
 
 ---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huss-osman&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huss-osman&theme=tokyonight&hide_border=true" />
+</p>
