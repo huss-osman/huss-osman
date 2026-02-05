@@ -1,20 +1,22 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Osman</h1>
 
-## 👋 Hi, I'm Osman
+<p align="center">
+  <strong>Aspiring DevOps Engineer</strong><br/>
+  Linux • Bash • Git • Docker • AWS • CI/CD
+</p>
 
-**Aspiring DevOps Engineer**  
-Linux • Bash • Git • Docker • AWS • CI/CD
+<p align="center">
+  *Focused on building strong fundamentals before scaling into cloud and automation*
+</p>
 
-*Focused on building strong fundamentals before scaling into cloud and automation.*
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@outlook.com">
+    <img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
 
 ## 💡 About Me
 
