@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Osman</h1>
 
 <h3 align="center">
-Aspiring DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernetes
+Aspiring DevOps Engineer | Linux • AWS • Docker • Terraform • CI/CD • Kubernetes
 </h3>
 
 <p align="center">
