@@ -10,7 +10,11 @@ Aspiring DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • 
 <i>Focused on building strong fundamentals before scaling into cloud and automation.</i>
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/ohussein/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a><a href="mailto:osmanhusseinl@hotmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/c363f8d9-3d5e-4229-bfb3-74c96d1f3a28" height="40" /></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ohussein/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+</p>
 
 </div>
 
