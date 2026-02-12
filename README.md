@@ -65,4 +65,4 @@ Hands-on learning repo focused on **Linux fundamentals**, **Bash scripting**, an
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huss-osman&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huss-osman&theme=github-dark)
