@@ -60,7 +60,7 @@ I prioritise **Linux, networking, and system-level understanding**, knowing thes
 ## ⚡ Newest Project
 
 <p>
-  <a href="https://github.com/huss-osman/devops-learning" target="_blank">
+  <a href="https://github.com/huss-osman/aws-ec2-nginx-route53" target="_blank">
   <img src="https://img.shields.io/badge/MOST_RECENT_PROJECT-4B4B4B?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/CLICK_HERE-6F42C1?style=for-the-badge"/>
   </a>
 </p>
