@@ -71,7 +71,7 @@ I prioritise **Linux, networking, and system-level understanding**, knowing thes
 
 Configured and deployed an NGINX web server on AWS EC2 and connected it to a custom domain using Route 53 DNS records. Implemented HTTP access through Security Groups, managed the Linux server remotely via SSH, and validated DNS resolution and web traffic flow across the deployment.
 
-Tech: AWS • EC2 • Route 53 • Linux • NGINX • DNS • Networking
+Tech: AWS • EC2 • Route 53 • Linux • NGINX • DNS • 
 
 ---
 
