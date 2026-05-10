@@ -67,7 +67,7 @@ I prioritise **Linux, networking, and system-level understanding**, knowing thes
 
 ## 🚀 Featured Projects
 
-### **[🌐 NGINX on AWS EC2 + Route 53](https://github.com/huss-osman/aws-nginx-route53-project)**
+### **[🌐 NGINX on AWS EC2 + Route 53](https://github.com/huss-osman/aws-ec2-nginx-route53)**
 
 Configured and deployed an NGINX web server on AWS EC2 and connected it to a custom domain using Route 53 DNS records. Implemented HTTP access through Security Groups, managed the Linux server remotely via SSH, and validated DNS resolution and web traffic flow across the deployment.
 
