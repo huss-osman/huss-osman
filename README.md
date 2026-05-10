@@ -80,6 +80,12 @@ I prioritise **Linux, networking, and system-level understanding**, knowing thes
 
 ## 🚀 Featured Projects
 
+### **[🌐 NGINX on AWS EC2 + Route 53](https://github.com/huss-osman/devops-learning)**
+
+Production-style AWS networking project deploying an NGINX web server on EC2 and exposing it publicly through Route 53 DNS configuration.
+
+Tech: AWS • EC2 • Route 53 • Linux • NGINX • DNS • Networking
+
 ### **[📚 DevOps Learning](https://github.com/huss-osman/devops-learning)**
 
 Hands-on learning repository focused on building strong **DevOps foundations** through structured modules and real-world challenges.
