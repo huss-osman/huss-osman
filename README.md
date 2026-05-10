@@ -75,7 +75,7 @@ I prioritise **Linux, networking, and system-level understanding**, knowing thes
 
 Configured and deployed an NGINX web server on AWS EC2 and connected it to a custom domain using Cloudflare DNS records. Implemented HTTP access through Security Groups, managed the Linux server remotely via SSH, and validated DNS resolution and web traffic flow across the deployment.
 
-Tech: AWS • EC2 • Cloudflare • Linux • NGINX • DNS
+Tech: AWS • EC2 • Cloudflare • Linux • NGINX 
 
 ---
 
