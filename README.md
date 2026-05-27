@@ -20,7 +20,7 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 
 ## 💡 About Me
 
-I’m an aspiring DevOps engineer focused on **building strong fundamentals before scaling into cloud and automation**.
+A DevOps engineer focused on **building strong fundamentals before scaling into cloud and automation**.
 
 My approach is simple:
 
