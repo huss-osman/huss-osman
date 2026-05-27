@@ -7,7 +7,7 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 </h3>
 
 <p align="center">
-<i>Focused on building strong fundamentals before scaling into cloud and automation.</i>
+<i>Building scalable cloud infrastructure and automation workflows on AWS.</i>
 </p>
 
 <p align="center">
