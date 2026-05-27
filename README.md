@@ -20,26 +20,29 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 
 ## 💡 About Me
 
-A DevOps engineer focused on **building strong fundamentals before scaling into cloud and automation**.
+A DevOps Engineer focused on building practical experience across Linux, networking, cloud infrastructure, automation, and container technologies.
 
 My approach is simple:
 
-- Learn how systems actually work  
-- Break things intentionally  
-- Fix them methodically  
-- Understand *why* solutions work  
-- Document everything clearly  
+* Understand how systems work
+* Break things intentionally
+* Debug methodically
+* Learn why solutions work
+* Document everything clearly
 
-I prioritise **Linux, networking, and system-level understanding**, knowing these form the backbone of DevOps, cloud platforms, CI/CD, and distributed systems.
+I enjoy building hands-on projects involving Docker, AWS, Linux, networking, CI/CD, and Infrastructure as Code while continuously improving troubleshooting and system-level understanding.
+
+---
 
 ## 🛠️ Current Focus
 
-- Networking fundamentals (DNS, routing, IP addressing, troubleshooting)  
-- Understanding how systems communicate across infrastructure  
-- Linux and Bash for system-level control and automation  
-- Building cloud foundations (AWS EC2, VPC, DNS)  
-- Applying concepts through hands-on labs and real-world scenarios  
-- Developing a DevOps mindset: debugging, observability, and system thinking  
+* Docker and Docker Compose
+* Container networking and troubleshooting
+* AWS cloud infrastructure (EC2, IAM, ECR, ECS)
+* Linux and Bash scripting
+* GitHub Actions and CI/CD workflows
+* Terraform and Infrastructure as Code
+* Kubernetes fundamentals
 
 ## 🔧 Tech Stack 
 
