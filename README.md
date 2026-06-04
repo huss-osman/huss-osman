@@ -81,7 +81,7 @@ I enjoy building hands-on projects involving Docker, AWS, Linux, networking, CI/
 
 Built and configured a scalable multi-container Flask application utilising Docker with NGINX reverse proxying and Redis persistence.
 Implemented container networking, load balancing workflows, environment configuration, and communication between application services.
-Built through hands-on containerisation, service debugging, infrastructure workflows, and multi-container deployment troubleshooting.
+Built through hands-on containerisation, service debugging, infrastructure workflows, and deployment troubleshooting.
 
 Tech: Docker • Flask • Redis • NGINX 
 
