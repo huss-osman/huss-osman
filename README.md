@@ -88,6 +88,8 @@ Tech: AWS • EC2 • Cloudflare • Linux • NGINX
 ### **[📚 DevOps Learning](https://github.com/huss-osman/devops-learning)**
 
 Hands-on learning repository focused on building strong **DevOps foundations** through structured modules and real-world challenges.
+Covering Linux, Bash, Git, networking, Docker, AWS, Terraform, CI/CD, Kubernetes, and practical cloud infrastructure workflows.
+Built through hands-on labs, troubleshooting exercises, container projects, and real-world infrastructure experimentation.
 
 **Focus Areas:** Linux • Bash • Git • Networking • Docker • AWS • Terraform • CI/CD • Kubernetes
 
