@@ -83,7 +83,7 @@ Built and configured a scalable multi-container Flask application utilising Dock
 Implemented container networking, load balancing workflows, environment variable configuration, and communication between application services.
 Built through hands-on containerisation, Docker Compose orchestration, service debugging, and multi-container infrastructure workflows.
 
-Tech: Docker • Flask • Redis • NGINX • Linux
+Tech: Docker • Flask • Redis • NGINX 
 
 ---
 
@@ -93,7 +93,7 @@ Configured and deployed an NGINX web server on AWS EC2 and connected it to a cus
 Implemented HTTP access through Security Groups, managed Linux server connectivity via SSH, and validated DNS resolution workflows.
 Built through hands-on cloud networking, Linux troubleshooting and infrastructure configuration.
 
-Tech: AWS • EC2 • Cloudflare • Linux • NGINX 
+Tech: AWS • EC2 • Cloudflare • NGINX 
 
 ---
 
