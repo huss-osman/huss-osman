@@ -81,7 +81,7 @@ I enjoy building hands-on projects involving Docker, AWS, Linux, networking, CI/
 
 Configured and deployed an NGINX web server on AWS EC2 and connected it to a custom domain using Cloudflare DNS routing and traffic.
 Implemented HTTP access through Security Groups, managed Linux server connectivity via SSH, and validated DNS resolution workflows.
-Built through hands-on cloud networking, infrastructure configuration, Linux troubleshooting, and real-world deployment exercises.
+Built through hands-on cloud networking, Linux troubleshooting and infrastructure configuration.
 
 Tech: AWS • EC2 • Cloudflare • Linux • NGINX 
 
