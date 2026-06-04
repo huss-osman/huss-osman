@@ -79,9 +79,9 @@ I enjoy building hands-on projects involving Docker, AWS, Linux, networking, CI/
 
 ### **[🌐 NGINX on AWS EC2 + Cloudflare](https://github.com/huss-osman/aws-ec2-nginx-cloudflare)**
 
-Configured and deployed an NGINX web server on AWS EC2 and connected it to a custom domain using Cloudflare DNS routing.
-Implemented HTTP access through Security Groups, managed the Linux server remotely via SSH, and validated DNS resolution workflows.
-Built through hands-on cloud networking, Linux administration, infrastructure configuration, and deployment troubleshooting exercises.
+Configured and deployed an NGINX web server on AWS EC2 and connected it to a custom domain using Cloudflare DNS routing and traffic.
+Implemented HTTP access through Security Groups, managed Linux server connectivity via SSH, and validated DNS resolution workflows.
+Built through hands-on cloud networking, infrastructure configuration, Linux troubleshooting, and real-world deployment exercises.
 
 Tech: AWS • EC2 • Cloudflare • Linux • NGINX 
 
