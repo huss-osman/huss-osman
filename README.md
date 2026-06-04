@@ -77,6 +77,16 @@ I enjoy building hands-on projects involving Docker, AWS, Linux, networking, CI/
 
 ## 🚀 Featured Projects
 
+### **[🐳 NGINX Flask Redis App](https://github.com/huss-osman/nginx-flask-redis-app)**
+
+Built and configured a scalable multi-container Flask application utilising Docker Compose, integrating NGINX reverse proxying and Redis persistence.
+Implemented container networking, load balancing workflows, environment variable configuration, and communication between application services.
+Built through hands-on containerisation, Docker Compose orchestration, service debugging, and multi-container infrastructure workflows.
+
+Tech: Docker • Flask • Redis • NGINX • Linux
+
+---
+
 ### **[🌐 NGINX on AWS EC2 + Cloudflare](https://github.com/huss-osman/aws-ec2-nginx-cloudflare)**
 
 Configured and deployed an NGINX web server on AWS EC2 and connected it to a custom domain using Cloudflare DNS routing and traffic.
