@@ -83,7 +83,7 @@ Configured and deployed an NGINX web server on AWS EC2 and connected it to a cus
 Implemented HTTP access through Security Groups, managed Linux server connectivity via SSH, and validated DNS resolution workflows.
 Built through hands-on cloud networking, Linux troubleshooting and infrastructure configuration.
 
-Tech: AWS • EC2 • Cloudflare • NGINX 
+Tech: AWS • EC2 • Cloudflare • Linux • NGINX 
 
 ---
 
