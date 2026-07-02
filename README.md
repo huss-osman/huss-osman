@@ -60,7 +60,7 @@ Current focus areas:
 ## ⚡ Newest Project
 
 <p>
-  <a href="https://github.com/huss-osman/aws-ec2-nginx-cloudflare" target="_blank">
+  <a href="https://github.com/huss-osman/nginx-flask-redis-app" target="_blank">
   <img src="https://img.shields.io/badge/MOST_RECENT_PROJECT-4B4B4B?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/CLICK_HERE-6F42C1?style=for-the-badge"/>
   </a>
 </p>
