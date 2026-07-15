@@ -20,16 +20,16 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 
 ## 💡 About Me
 
-Aspiring DevOps Engineer focused on building strong foundations across Linux, networking, AWS, automation, and container technologies through hands-on projects and continuous learning.
+I'm a DevOps Engineer with a strong focus on Linux, AWS, Infrastructure as Code, and automation, building hands-on projects that prioritise security, scalability, and operational reliability.
 
 Current focus areas:
 
-* Designing and deploying cloud infrastructure using AWS services such as EC2, ECS, VPC, IAM, and S3
-* Building and managing Infrastructure as Code using Terraform
-* Implementing CI/CD pipelines for application and infrastructure delivery
-* Building and running containerised applications using Docker
-* Automating operational workflows and scripting tasks using Bash
-* Strengthening troubleshooting, networking, and system-level understanding through practical labs and projects
+- Designing and operating AWS infrastructure using core services like ECS, EC2, VPC, IAM, and S3
+- Provisioning and managing infrastructure as code using Terraform and AWS CloudFormation
+- Implementing CI/CD pipelines for application delivery and infrastructure changes
+- Building and running containerised workloads using Docker
+- Automating operational tasks and workflows using Bash
+- Strengthening Linux, networking, and troubleshooting skills through hands-on labs and production-style projects
 
 ---
 
