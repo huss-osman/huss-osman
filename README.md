@@ -73,6 +73,16 @@ Current focus areas:
 
 ## 🚀 Featured Projects
 
+### **[🏗️ Terraform EC2 Provisioning Setups](https://github.com/huss-osman/terraform-ec2-provisioning-setups)**
+
+Provisioned and configured EC2 infrastructure using Terraform, demonstrating userdata-based WordPress deployment and cloud-init-driven NGINX provisioning.
+Implemented Infrastructure as Code workflows, automating bootstrapping through Terraform configuration.
+Built through hands-on infrastructure automation, cloud-init configuration, and AWS deployment workflows practices.
+
+Tech: Terraform • AWS • EC2 • Bash • Cloud-Init • WordPress • NGINX
+
+---
+
 ### **[🐳 NGINX Flask Redis App](https://github.com/huss-osman/nginx-flask-redis-app)**
 
 Built and configured a scalable multi-container Flask application utilising Docker with NGINX reverse proxying and Redis persistence.
