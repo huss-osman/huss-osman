@@ -73,6 +73,16 @@ Current focus areas:
 
 ## 🚀 Featured Projects
 
+### **[🧩 ECS Fargate IT Tools Platform (Terraform + CI/CD)](https://github.com/huss-osman/it-tools-fargate-platform)**
+
+Designed and deployed a containerised IT Tools application on AWS ECS Fargate using Terraform with secure Multi-AZ infrastructure.
+Implemented GitHub Actions CI/CD, AWS OIDC authentication, vulnerability scanning, HTTPS, load balancing, and automated deployment.
+Built through hands-on cloud automation, container security, Terraform workflows, and deployment troubleshooting.
+
+Tech: AWS • ECS Fargate • Terraform • GitHub Actions • Docker • ECR • OIDC • ALB • Route 53 • ACM
+
+---
+
 ### **[🏗️ Terraform EC2 Provisioning Setups](https://github.com/huss-osman/terraform-ec2-provisioning-setups)**
 
 Provisioned and configured EC2 infrastructure using Terraform, demonstrating userdata-based WordPress deployment and cloud-init-driven NGINX provisioning.
@@ -100,16 +110,6 @@ Implemented HTTP access through Security Groups, managed Linux server connectivi
 Built through hands-on cloud networking, Linux troubleshooting and infrastructure configuration.
 
 Tech: AWS • EC2 • Cloudflare • Linux • NGINX 
-
----
-
-### **[📚 DevOps Learning](https://github.com/huss-osman/devops-learning)**
-
-Hands-on learning repository focused on building strong DevOps foundations through structured modules and real-world challenges.
-Covering Linux, Bash, Git, networking, Docker, AWS, Terraform, CI/CD, Kubernetes, and practical cloud infrastructure workflows.
-Across hands-on labs, troubleshooting exercises, deployment workflows, practical scripting, and real-world infrastructure experimentation.
-
-**Focus Areas:** Linux • Bash • Git • Networking • Docker • AWS • Terraform • CI/CD • Kubernetes
 
 ---
 
