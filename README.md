@@ -112,3 +112,13 @@ Implemented HTTP access through Security Groups, managed Linux server connectivi
 Built through hands-on cloud networking, Linux troubleshooting and infrastructure configuration.
 
 Tech: AWS • EC2 • Cloudflare • Linux • NGINX 
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=huss-osman&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E" width="45%" />
+
+</div>
