@@ -41,16 +41,29 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 
 ## 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a4d88cc6-7a7f-4035-9b82-5d0354d8e0bb" width="40" align="center" /> <strong><code>Linux</code></strong> &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/dabfb244-0d00-405a-9eb0-b9262fd1e2b7" width="40" align="center" /> <strong><code>Bash</code></strong> &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ebaac862-de30-40ee-9466-25622db90c1d" width="40" align="center" /> <strong><code>Git</code></strong> &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/2fc49307-4efa-4fef-8663-96b3f8f9ff30" width="40" align="center" /> <strong><code>Docker</code></strong> &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9f8a1574-e10d-443f-9996-c9113383775f" width="40" align="center" /> <strong><code>AWS</code></strong> &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/121ff656-9f79-4f27-9028-0b0c2642f0bf" width="40" align="center" /> <strong><code>Terraform</code></strong> &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/7a42bebb-31ef-4e23-81ed-006f7d14ba47" width="40" align="center" /> <strong><code>CI/CD</code></strong> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" align="center" /> <strong><code>Kubernetes</code></strong>
-</p>
+<!-- Automation & Infrastructure as Code -->
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
+
+<!-- Containers & Runtime -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ECS%20Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- Cloud Platform -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- OS & Tooling -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## ⚡ Newest Project
 
