@@ -128,6 +128,6 @@ Tech: AWS • EC2 • Cloudflare • Linux • NGINX
 
 ## 🏅 Certifications
 
-<a href="YOUR_CREDENTIAL_URL" target="_blank">
+<a href="https://learn.microsoft.com/en-us/users/OsmanHussein-8615/credentials/3839B91C87CA4D57?ref=https%3a%2f%2fwww.linkedin.com%2f" target="_blank">
   <img src="https://github.com/user-attachments/assets/4e5e0fc0-31a6-43d4-934d-d1f2f79b52bf" width="140">
 </a>
