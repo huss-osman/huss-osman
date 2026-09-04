@@ -126,6 +126,8 @@ Tech: AWS • EC2 • Cloudflare • Linux • NGINX
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Certifications
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huss-osman&theme=github-dark&hide_border=true&bg_color=transparent&title_color=6e7681&color=6e7681&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb)
+<a href="YOUR_CREDENTIAL_URL" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4e5e0fc0-31a6-43d4-934d-d1f2f79b52bf" width="140">
+</a>
