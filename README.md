@@ -20,47 +20,36 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 
 ## 💡 About Me
 
-I'm a DevOps Engineer with a strong focus on Linux, AWS, Infrastructure as Code, and automation, building hands-on projects that prioritise security, scalability, and operational reliability.
+- DevOps Engineer building secure, scalable infrastructure and automated cloud workflows.
+- Experienced with Linux, AWS infrastructure, networking, and operational troubleshooting.
+- Hands-on with Terraform and AWS CloudFormation for Infrastructure as Code.
+- Building containerised workloads with Docker and automated CI/CD pipelines.
+- Focused on security, scalability, reliability, and production-style engineering practices.
 
-Current focus areas:
+<br>
 
-- Designing and operating AWS infrastructure using core services like ECS, EC2, VPC, IAM, and S3
-- Provisioning and managing infrastructure as code using Terraform and AWS CloudFormation
-- Implementing CI/CD pipelines for application delivery and infrastructure changes
-- Building and running containerised workloads using Docker
-- Automating operational tasks and workflows using Bash
-- Strengthening Linux, networking, and troubleshooting skills through hands-on labs and production-style projects
+<details>
+  <summary> 🏅 View Certifications (click to view) </summary>
+
+<a href="https://learn.microsoft.com/en-us/users/OsmanHussein-8615/credentials/3839B91C87CA4D57?ref=https%3a%2f%2fwww.linkedin.com%2f" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4e5e0fc0-31a6-43d4-934d-d1f2f79b52bf" width="140">
+</a>
+
+</details>
 
 ---
 
 ## 🔧 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ECS_FARGATE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ECR-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DYNAMODB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLOUDWATCH-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4d88cc6-7a7f-4035-9b82-5d0354d8e0bb" width="40" align="center" /> <strong><code>Linux</code></strong> &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/dabfb244-0d00-405a-9eb0-b9262fd1e2b7" width="40" align="center" /> <strong><code>Bash</code></strong> &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ebaac862-de30-40ee-9466-25622db90c1d" width="40" align="center" /> <strong><code>Git</code></strong> &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/2fc49307-4efa-4fef-8663-96b3f8f9ff30" width="40" align="center" /> <strong><code>Docker</code></strong> &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9f8a1574-e10d-443f-9996-c9113383775f" width="40" align="center" /> <strong><code>AWS</code></strong> &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/121ff656-9f79-4f27-9028-0b0c2642f0bf" width="40" align="center" /> <strong><code>Terraform</code></strong> &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/7a42bebb-31ef-4e23-81ed-006f7d14ba47" width="40" align="center" /> <strong><code>CI/CD</code></strong> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" align="center" /> <strong><code>Kubernetes</code></strong>
 </p>
 
 ## ⚡ Newest Project
@@ -123,11 +112,3 @@ Implemented HTTP access through Security Groups, managed Linux server connectivi
 Built through hands-on cloud networking, Linux troubleshooting and infrastructure configuration.
 
 Tech: AWS • EC2 • Cloudflare • Linux • NGINX 
-
----
-
-## 🏅 Certifications
-
-<a href="https://learn.microsoft.com/en-us/users/OsmanHussein-8615/credentials/3839B91C87CA4D57?ref=https%3a%2f%2fwww.linkedin.com%2f" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4e5e0fc0-31a6-43d4-934d-d1f2f79b52bf" width="140">
-</a>
