@@ -30,9 +30,19 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 <details>
   <summary>🏅 <strong>View Certifications (click to view)</strong></summary>
 
-<a href="https://learn.microsoft.com/en-us/users/OsmanHussein-8615/credentials/3839B91C87CA4D57?ref=https%3a%2f%2fwww.linkedin.com%2f" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4e5e0fc0-31a6-43d4-934d-d1f2f79b52bf" width="140">
-</a>
+  <h4>🔷 Microsoft Azure</h4>
+
+  <a href="https://learn.microsoft.com/en-us/users/OsmanHussein-8615/credentials/3839B91C87CA4D57?ref=https%3a%2f%2fwww.linkedin.com%2f" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4e5e0fc0-31a6-43d4-934d-d1f2f79b52bf" width="140">
+  </a>
+
+  <br>
+
+  <h4>🔶 AWS</h4>
+
+  <a href="https://www.credly.com/badges/591e6f7c-dbb3-485f-8281-c7966406f474/public_url" target="_blank">
+    <img src="https://github.com/user-attachments/assets/0e289b0b-148b-456f-84e7-8be310ec4490" width="140">
+  </a>
 
 </details>
 
