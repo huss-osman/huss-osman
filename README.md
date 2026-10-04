@@ -43,19 +43,11 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 
   <br>
 
-  <!-- AWS -->
-  <img src="https://github.com/user-attachments/assets/2574f99c-94ae-4dda-8c2b-6921d243d940" width="69">
+<!-- AWS -->
+<img src="https://github.com/user-attachments/assets/2574f99c-94ae-4dda-8c2b-6921d243d940" width="69">
 
-  <br>
-
-  <a href="https://www.credly.com/badges/591e6f7c-dbb3-485f-8281-c7966406f474/public_url" target="_blank">
-    <img src="https://github.com/user-attachments/assets/fc61418c-5757-4577-980a-5df1059057a6" width="140">
-  </a>
-
-  <!-- AWS Cloud Practitioner -->
-  <a href="https://www.credly.com/badges/99afc0f8-2f18-4a04-a1c6-da9c4d9115f9/linked_in_profile" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c9bbfac5-6f7a-4be8-a798-77e25d19af36" width="140"> 
-  </a>
+<a href="https://www.credly.com/badges/591e6f7c-dbb3-485f-8281-c7966406f474/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/fc61418c-5757-4577-980a-5df1059057a6" width="140"/></a>
+<a href="https://www.credly.com/badges/99afc0f8-2f18-4a04-a1c6-da9c4d9115f9/linked_in_profile" target="_blank"><img src="https://github.com/user-attachments/assets/c9bbfac5-6f7a-4be8-a798-77e25d19af36" width="140"/></a>
 
 </details>
 
