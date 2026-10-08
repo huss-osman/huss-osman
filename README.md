@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=huss-osman&abbreviated=true)
+![Profile views](https://views.igorkowalczyk.dev/api/badge/huss-osman?style=flat)
 
 <h1 align="center">👋 Hi, I'm Osman</h1>
 
