@@ -1,4 +1,4 @@
-![GitHub Views](https://gitviews.com/user/huss-osman.svg?style=modern)
+![GitHub Views](https://gitviews.com/user/huss-osman.svg?base=17000)
 
 <h1 align="center">👋 Hi, I'm Osman</h1>
 
