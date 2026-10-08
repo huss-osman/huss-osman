@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=huss-osman&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=huss-osman&abbreviated=true)
 
 <h1 align="center">👋 Hi, I'm Osman</h1>
 
