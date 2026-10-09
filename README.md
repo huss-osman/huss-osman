@@ -31,23 +31,23 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
   <summary>🏅 <strong>View Certifications (click to view)</strong></summary>
 
   <br>
-
-  <!-- Microsoft Azure -->
-  <img src="https://github.com/user-attachments/assets/7d37a4e7-6ec8-49c1-a0b3-e7f82953a0da" width="60">
-
-  <br>
-
-  <a href="https://learn.microsoft.com/en-us/users/OsmanHussein-8615/credentials/3839B91C87CA4D57?ref=https%3a%2f%2fwww.linkedin.com%2f" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4e5e0fc0-31a6-43d4-934d-d1f2f79b52bf" width="140">
-  </a>
-
-  <br>
-
 <!-- AWS -->
 <img src="https://github.com/user-attachments/assets/2574f99c-94ae-4dda-8c2b-6921d243d940" width="69">
 
 <a href="https://www.credly.com/badges/591e6f7c-dbb3-485f-8281-c7966406f474/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/fc61418c-5757-4577-980a-5df1059057a6" width="140"/></a>
 <a href="https://www.credly.com/badges/99afc0f8-2f18-4a04-a1c6-da9c4d9115f9/linked_in_profile" target="_blank"><img src="https://github.com/user-attachments/assets/c9bbfac5-6f7a-4be8-a798-77e25d19af36" width="140"/></a>
+
+<!-- Microsoft Azure -->
+<img src="https://github.com/user-attachments/assets/7d37a4e7-6ec8-49c1-a0b3-e7f82953a0da" width="60">
+
+<a href="https://learn.microsoft.com/en-us/users/OsmanHussein-8615/credentials/3839B91C87CA4D57?ref=https%3a%2f%2fwww.linkedin.com%2f" target="_blank"><img src="https://github.com/user-attachments/assets/4e5e0fc0-31a6-43d4-934d-d1f2f79b52bf" width="140"/></a>
+
+<!-- HashiCorp Terraform -->
+<img src="https://github.com/user-attachments/assets/904aea00-9de3-4c2a-b2e3-ee7c09b0bcc8" width="60">
+
+<a href="YOUR_HASHICORP_CERTIFICATION_URL" target="_blank"><img src="https://github.com/user-attachments/assets/1f063f2a-715b-4a20-b06e-d35c9a49d638" width="140"/></a> 
+
+<br>
 
 </details>
 
