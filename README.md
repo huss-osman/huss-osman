@@ -45,7 +45,7 @@ DevOps Engineer | AWS • Linux • Docker • Terraform • CI/CD • Kubernete
 <!-- HashiCorp Terraform -->
 <img src="https://github.com/user-attachments/assets/904aea00-9de3-4c2a-b2e3-ee7c09b0bcc8" width="60">
 
-<a href="YOUR_HASHICORP_CERTIFICATION_URL" target="_blank"><img src="https://github.com/user-attachments/assets/2d02a6be-eca2-4a20-bcd2-1874b4aa9a84" width="137"/></a>  
+<a href="https://www.credly.com/badges/184de26e-32a0-4d09-a4ec-a7df3d5e911b/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/2d02a6be-eca2-4a20-bcd2-1874b4aa9a84" width="137"/></a>  
 
 <br>
 
